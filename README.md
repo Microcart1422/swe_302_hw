@@ -3,12 +3,13 @@ Regular FPS controls for the player
 
 mouse: for looking around
 
-Keyboard keys for movment:{
+Keyboard keys for movment: 
+{
   .W: move forward
   .A: move left
   .S: move backward
   .D: move left
   .Left Shift: sprint
   .Left Control: crouch
-  .Space Bar: jump
+  .Space Bar: jump 
 }
